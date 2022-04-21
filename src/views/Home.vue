@@ -8,8 +8,8 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
-import { IonContent, IonPage, IonButton } from "@ionic/vue";
+import { defineComponent } from 'vue'
+import { IonContent, IonPage, IonButton } from '@ionic/vue'
 
 
 export default defineComponent({
